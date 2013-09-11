@@ -1,0 +1,163 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Materials & Methods
+\end_layout
+
+\begin_layout Subsection
+Softlithography
+\end_layout
+
+\begin_layout Standard
+Multilayer fluid master molds were fabricated using the positive photoresist
+ SU8 (MicroChem, USA) and the negative photoresist SPR-220 7 (Dow Electronic
+ Materials).
+ Prior to resist depositing a 4” silicon wafer was cleaned with piranha
+ solution, hydrofluoric acid and rinsed with DI water.
+ After dry spinning, the substrate was dehydrated for 20 minutes at 200
+ °C.
+ As first layer of photoresist, a mixture of two different SU8 photoresists
+ was used, to achieve a designated height of approx.
+ 1 µm.
+ The photoresists SU8 2000.5 and SU8 2010 were properly mixed in a ratio
+ of 24/88, with a total weight of 60 g.
+ This mixture was spin coated onto the substrate at 500 rpm with an acceleration
+ of 100 rpm/s for 10s and 2000 rpm with an acceleration of 300 RPM/s for
+ 30 s.
+ Soft bake was performed at 65 °C for 90 seconds, 95 °C for 90 seconds and
+ at last 65 °C for 60 seconds.
+ Afterwards, the substrate was exposed to UV light (365 nm, 7 mW/cm²) for
+ 3 seconds using a mask aligner (MA-6, SUSS MicroTec, Germany) and a chromium
+ dark field mask.
+ Post-exposure bake was carried out at 65 °C for 60 seconds and 95 °C for
+ 60 seconds.
+ Unexposed parts of photoresist were dissolved, by immersing the substrate
+ in developer solution (mr-DEV 600, micro resist technology GmbH, Germany)
+ for 60 seconds, then again in fresh developer solution for 40 seconds and
+ in IPA for 20 seconds at last.
+ Developed substrates were blow dried afterwards and hard baked for 10 minutes
+ at 150 °C.
+ 
+\end_layout
+
+\begin_layout Standard
+As second layer, the positive photoresist SPR-220 7 was spin coated onto
+ the structured substrate at 500 rpm with an acceleration of 100 rpm/s for
+ 5 s and 2000 rpm with an acceleration of 300 rpm/s for 40 s.
+ Prior to exposure, the substrate was baked for 4 minutes at 105 °C.
+ Consequently, the photoresist was exposed to UV light (365 nm, 7 mW/cm²)
+ for 60 seconds using a chromium brightfield mask.
+ For development the substrate was immersed in developer solution (MF CD
+ 26, Dow Electronic Materials) for approximately 2 minutes.
+ Afterwards the substrate was placed in fresh DI water for approximately
+ 5 minutes and eventually blow dried.
+ To round the positive photoresist structures the substrate was placed onto
+ a hotplate for 15 minutes at 115 °C.
+ Control layer master molds were fabricated using a 4” silicon wafer which
+ was cleaned with piranha solution, hydrofluoric acid and rinsed with DI
+ water.
+ A cleaned substrate was dehydrated at 200 °C for 20 minutes and coated
+ with the negative photoresist SU8 2010 at 500 rpm with an acceleration
+ of 100 rpm/s for 10 s and 4000 rpm with an acceleration of 300 rpm/s for
+ 30 s.
+ After deposition the substrate was baked at 65 °C for 15 minutes and 95
+ °C for 60 minutes.
+ For structuring the photoresist it was exposed to UV light (365 nm, 7 mW/cm²)
+ for 12 s using a chromium darkfield mask.
+ Post-exposure bake was carried out 65 °C for 5 minutes and 95 °C for 3
+ minutes.
+ Consequently, the development was done as described for fluid master molds.
+ At last the structures were hard baked for 6 hours at 150 °C.
+ Both substrates were treated with Trichloromethylsilane (CH3SiCl3, Carl
+ Roth, Germany).
+ 
+\end_layout
+
+\begin_layout Standard
+Multilayered microfluidic PDMS chips were fabricated from different ratios
+ of PDMS (Sylgard 184, Dow Corning).
+ Two mixtures were prepared, 15 g with a ratio of 20:1 and 30 g with a ratio
+ of 5:1, and degased for 30 minutes.
+ The fluid layer was created by spin coating (SPIN 150, SPS-Europe B.V., Netherlan
+ds) the 20:1 mixture of PDMS onto the two layered master mold at 2750 rpm
+ with an acceleration of 275 rpm/s for 70 s, leading to an approximately
+ height of 30 µm.
+ The control layer was molded by pouring the 5:1 mixture of PDMS onto the
+ SU8 2010 structured substrate.
+ Both molds were placed inside a convection oven to partially cure at 80
+ °C for 25 minutes.
+ Consequently, the control layer was released from the mold, cut into pieces
+ and roughly cleaned with scotch tape.
+ Control layer pieces were placed onto the fluid layer and aligned, before
+ irreversible bonding both layers at 80 °C for 1 hour.
+ Afterwards individual chips were released from the fluid layer to punch
+ inlets and outlets.
+ Prior to experiments each chip was roughly cleaned with acetone, isopropanol
+ and scotch tape.
+ For high resolution microscopy a cleaned chip was bonded onto a 170 µm
+ thick glass plate using an oxygen plasma generator (Femto, Diener Electronic,
+ Germany).
+ 
+\end_layout
+
+\end_body
+\end_document
